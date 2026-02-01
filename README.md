@@ -1,5 +1,6 @@
 # VK-script-for-Steam
-Script for monitoring Steam game download speed in the background
+ENG - Script for monitoring Steam game download speed in the background
+RUS - Скрипт для мониторинга скорости загрузки игр в Steam в фоновом режиме
 
 
 ## Возможности
